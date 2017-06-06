@@ -1,2 +1,5 @@
 # hello-world
-Just first repository from tutorial
+
+Hi everyone!
+
+My name is Nikita. Now i'm truing learn JS.
