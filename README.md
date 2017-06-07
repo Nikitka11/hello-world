@@ -3,3 +3,4 @@
 Hi everyone!
 
 My name is Nikita. Now i'm truing learn JS.
+gg wp
